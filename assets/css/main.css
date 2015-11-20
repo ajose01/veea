@@ -203,18 +203,18 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .btn-primary {
-  background-color: #ffae3f;
-  border-color: #ffae3f;
+  background-color: #F30A0A;
+  border-color: #F30A0A;
 }
 .btn-primary:hover, .btn-primary:focus, .btn-primary:active, .btn-primary.active {
-  background-color: #ffae3f;
+  background-color: #F30A0A;
   border-color: #ffa325;
 }
 
 .btn-primary.disabled,
 .btn-primary[disabled] {
   background-color: #ffc472;
-  border-color: #ffae3f;
+  border-color: #F30A0A;
 }
 .btn-primary.disabled:hover, .btn-primary.disabled:focus, .btn-primary.disabled:active, .btn-primary.disabled.active,
 .btn-primary[disabled]:hover,
@@ -222,14 +222,14 @@ h1, h2, h3, h4, h5, h6 {
 .btn-primary[disabled]:active,
 .btn-primary[disabled].active {
   background-color: #ffc472;
-  border-color: #ffae3f;
+  border-color: #F30A0A;
 }
 
 /* --------------------- */
 /* LINKS
 /* --------------------- */
 a {
-  color: #ffae3f;
+  color: #F30A0A;
 }
 a:hover, a:focus {
   color: #ffc472;
@@ -260,7 +260,7 @@ a:hover, a:focus {
 }
 .section-heading h2 {
   font-size: 3em;
-  color: #ffae3f;
+  color: #F30A0A;
 }
 .section-heading p {
   font-size: 1.5em;
@@ -5201,7 +5201,7 @@ img.mfp-img {
 }
 @media screen and (max-width: 320px) {
   .hero-unit .hero-content {
-    margin-top: -80px;
+    margin-top: -80px; 
   }
 }
 .hero-unit .hero-content .hero-text .hero-heading,
@@ -5209,6 +5209,9 @@ img.mfp-img {
   font-family: "Dosis", sans-serif;
   color: #646464;
   font-weight: 300;
+}
+.hero-heading {
+  color: #FFF;
 }
 .hero-unit .hero-content .hero-text .hero-heading {
   font-size: 6em;
@@ -5398,7 +5401,7 @@ img.mfp-img {
   position: absolute;
   top: 0;
   font-size: 5em;
-  color: #ffae3f;
+  color: #F30A0A;
 }
 .service-item .service-text {
   margin-left: 100px;
@@ -5412,7 +5415,7 @@ img.mfp-img {
   margin-bottom: 0;
 }
 .service-item .service-text a.read-more {
-  color: #ffae3f;
+  color: #F30A0A;
 }
 .service-item .service-text a.read-more span {
   -moz-transition-property: all;
@@ -5531,7 +5534,7 @@ img.mfp-img {
 .work-item-filters li a:hover, .work-item-filters li a.active {
   text-decoration: none;
   outline: none;
-  background-color: #ffae3f;
+  background-color: #F30A0A;
   color: #fff;
 }
 
@@ -5818,7 +5821,7 @@ img.mfp-img {
   padding: 0 5px;
   line-height: 1.6;
   color: #fff;
-  background-color: #ffae3f;
+  background-color: #F30A0A;
 }
 .team-member strong {
   display: block;
