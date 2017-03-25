@@ -342,11 +342,11 @@ body #jpreBar {
 	Supersized - Fullscreen Slideshow jQuery Plugin
 	Version : 3.2.7
 	Site	: www.buildinternet.com/project/supersized
-	
+
 	Author	: Sam Dunn
 	Company : One Mighty Roar (www.onemightyroar.com)
 	License : MIT License / GPL License
-	
+
 */
 * {
   margin: 0;
@@ -5201,7 +5201,7 @@ img.mfp-img {
 }
 @media screen and (max-width: 320px) {
   .hero-unit .hero-content {
-    margin-top: -80px; 
+    margin-top: -80px;
   }
 }
 .hero-unit .hero-content .hero-text .hero-heading,
@@ -5463,7 +5463,7 @@ img.mfp-img {
 }
 /* ------------------ WORKS ------------------ */
 /* ----------------------------- */
-/* RECOMMENDED ISOTOPE STYLES 
+/* RECOMMENDED ISOTOPE STYLES
 /* Has been ported into SASS
 /* ---------------------------- */
 /* Isotope Filtering */
@@ -5858,7 +5858,7 @@ img.mfp-img {
 }
 /* ------------------ TESTIMONIAL ------------------ */
 .testimonial {
-  background-image: url('../img/sky.jpg?1394021998');
+  background-image: url('../img/crowd.jpg?1394021998');
   text-align: center;
   color: #fff;
 }
