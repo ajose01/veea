@@ -75,9 +75,9 @@ jQuery( function($){
 			slide_links: 'blank',		// Individual links for each slide (Options: false, 'num', 'name', 'blank')
 			thumb_links: 0,				// Individual thumb links for each slide
 			slides:  	[				// Slideshow Images
-							{image : 'assets/img/sliders/slider1.jpg', title : '<div class="hero-text"><h2 class="hero-heading" style="color:#fff;">VELA Venue</h2><p>Large capacity event hall in Los Angeles</p></div>', thumb : '', url : ''},
-							{image : 'assets/img/sliders/slider2.jpg', title : '<div class="hero-text"><h2 class="hero-heading" style="color:#fff;">Servicio Completo</h2><p>Proveemos todo lo que necesita para su evento</p></div>', thumb : '', url : ''},
-							{image : 'assets/img/sliders/slider3.jpg', title : '<div class="hero-text"><h2 class="hero-heading" style="color:#fff;">Eventos Inigualables</h2><p>Todo lo necesario para una experiencia unica!</p></div>', thumb : '', url : ''}
+							{image : 'assets/img/sliders/slider1.JPG', title : '<div class="hero-text"><h2 class="hero-heading" style="color:#fff;">VELA Venue</h2><p>Large capacity event hall in Los Angeles</p></div>', thumb : '', url : ''},
+							{image : 'assets/img/sliders/slider2.JPG', title : '<div class="hero-text"><h2 class="hero-heading" style="color:#fff;">Servicio Completo</h2><p>Proveemos todo lo que necesita para su evento</p></div>', thumb : '', url : ''},
+							{image : 'assets/img/sliders/slider3.JPG', title : '<div class="hero-text"><h2 class="hero-heading" style="color:#fff;">Eventos Inigualables</h2><p>Todo lo necesario para una experiencia unica!</p></div>', thumb : '', url : ''}
 						],
 		});
 
